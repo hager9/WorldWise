@@ -50,7 +50,7 @@ WorldWise is a responsive travel tracking application built with Vite and React.
 
 ## Screenshots
 - **Home Page**:  
-  ![Home Page](https://github.com/hager9/e-commerceReact-js/blob/main/public/Images/Screenshot%202024-10-10%20003852.png)
+  ![Home Page](https://github.com/hager9/)
   <br>
   ![Home Page](https://github.com/hager9/e-commerceReact-js/blob/main/public/Images/Screenshot%202024-10-10%20004007.png)
 
