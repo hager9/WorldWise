@@ -1,0 +1,23 @@
+.logo {
+  height: 5.2rem;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+@media screen and (max-width: 1024px) {
+  .logo {
+    height: 4rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .logo {
+    height: 3.2rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .logo {
+    height: 2.5rem;
+  }
+}
